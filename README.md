@@ -1,5 +1,6 @@
 # Swaply
 URL: www.swaply.co.za
+Alt URL: https://edu-swaply-production.up.railway.app/index.php
 
 ITECA3 Project
 Tadiwanashe Shonhiwa (Eduv4956423)
